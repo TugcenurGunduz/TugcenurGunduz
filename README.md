@@ -16,6 +16,14 @@
 
 *   [Manuel Test Projesi Belgeler](https://drive.google.com/drive/folders/1A13IZy2lUvs0udBun4gsxEYiGdpGQtI-?usp=drive_link) - [Test Edilen Sayfa](https://task-pro-qa.f.goit.study/welcome)
     *   *Not: Proje kapsamında hazırladığım test senaryolarını, hata raporlarını ve test planlarını içerir.*
+  # Bu projede; 
+- Swagger dökümanı analiz edilmiştir.
+- Kontrol listeleri oluşturulmuştur.
+- Test Rail üzerinden Test Case'ler oluşturulmuştur.
+- Test Rail üzerinde Test Case'ler için raporlama yapılmıştır.
+- Jira uygulamasında Bug Report'lar oluşturulmuştur.
+- Testler mobil, tablet ve masaüstü için koşulmuştur.
+- Postman üzerinden API testleri yapılmıştır.
 
 <br>
 
