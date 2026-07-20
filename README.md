@@ -17,7 +17,6 @@
 ### Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin] 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram] 
 
 <br>
 <br>
@@ -27,21 +26,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/76941464/177096731-892835fc-3094-4ea7-acd8-a8f6c9b809b4.png"  width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="25" height="25" />
 <img align="left" src="https://user-images.githubusercontent.com/76941464/177096861-9f3f3514-7aea-41bd-a9ae-a767050b3f52.png"  width="25" height="25" />
-
+<img align="left" src="https://blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress-3.png" width="25" height="25" />
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqEIy6YwyVfUTZEthzWrmQApEFOMhmYcCF2w_LvEStHw&s=10](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="25" height="25" />
+<img align="left" src="https://www.testrail.com/wp-content/uploads/2023/03/testrail_logo.png" width="25" height="25" />
+<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1SrOE-BsvUQQYOCrnX0W8tFjMruDw6hnrPMPaHKNF1w&s=10" width="25" height="25" />
 <br>
 <br>
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=TugcenurGunduz&theme=radical" >
-</details>
-<br>
-<br>
-
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TugcenurGunduz&layout=compact&theme=radical" >
-</details>
-
-[instagram]: http://instagram.com/tnurgunduz
 [linkedin]: https://www.linkedin.com/in/tuğçe-nur-gündüz/
