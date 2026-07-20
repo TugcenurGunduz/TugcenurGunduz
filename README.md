@@ -1,15 +1,23 @@
 <!--<img src="https://media.giphy.com/media/zSHERzpaQ9x8k/giphy.gif" align="right" width="300" height="250">-->
 
-- 👋 Hi, I’m Tuğçe Nur Gündüz Yeler :blush:     
-     ## Developer!
-    
-- 👀 I’m interested in Web Site Development, Software Testing
-- 🌱 I’m currently learning everything...
+- 👋 Merhaba, ben **Tuğçe Nur Gündüz Yeler** :blush:      
+     ## Junior QA Engineer | Software Engineer
+
+- 👀 İlgi alanlarım: Yazılım Test Süreçleri, Kalite Güvence (QA) ve Otomasyon.
+- 🌱 4.5 yıllık yazılım geliştirme deneyimimi, QA alanındaki yetkinliklerimle birleştirerek kaliteli yazılım süreçleri inşa etmeye odaklanıyorum.
+
+### 🛠 Teknik Yetkinliklerim
+
+*   **QA & Test:** Test Plan, Test Case, Bug Reporting, Jira, TestRail, Postman
+*   **Otomasyon:** Cypress, Cucumber, JavaScript
+*   **Geliştirme:** HTML, CSS, Git, GitHub
+
+<br>
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram] 
 [<img width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin] 
+[<img width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram] 
 
 <br>
 <br>
@@ -34,10 +42,6 @@
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TugcenurGunduz&layout=compact&theme=radical" >
 </details>
-
-
-[görünmez kod]: http:
-
 
 [instagram]: http://instagram.com/tnurgunduz
 [linkedin]: https://www.linkedin.com/in/tuğçe-nur-gündüz/
