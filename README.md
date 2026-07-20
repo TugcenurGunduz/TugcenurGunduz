@@ -12,6 +12,12 @@
 *   **Otomasyon:** Cypress, Cucumber, JavaScript
 *   **Geliştirme:** HTML, CSS, Git, GitHub
 
+  ### 📂 QA Projelerim
+
+*   [Manuel Test Projesi - ](https://task-pro-qa.f.goit.study/welcome) 
+    *   *Not: Proje kapsamında hazırladığım test senaryolarını, hata raporlarını ve test planlarını içerir.*
+*   [Dökümanlar]((https://drive.google.com/drive/folders/1A13IZy2lUvs0udBun4gsxEYiGdpGQtI-?usp=drive_link))
+
 <br>
 
 ### Reach out to me
