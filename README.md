@@ -26,6 +26,13 @@
 - Testler mobil, tablet ve masaüstü için koşulmuştur.
 - Postman üzerinden API testleri yapılmıştır.
 
+* [Kitapsepeti Otomasyon Projesi](https://github.com/TugcenurGunduz/KitapSepeti.git) - [Test Edilen Sayfa](https://www.kitapsepeti.com/)
+*  Bu proje, KitapSepeti web sitesinin uçtan uca (E2E) test süreçlerini otomatize etmek amacıyla geliştirilmiştir.
+
+
+* [BDD Tabanlı E-Ticaret Otomasyonu](https://github.com/TugcenurGunduz/BDD_Cucumber_ETicaret.git) - [Test Edilen Sayfa](https://www.saucedemo.com/)
+*  https://www.saucedemo.com/ sayfası için Cucumber BDD framework'ü kullanarak, son kullanıcı davranışlarını simüle eden E2E projesi geliştirilmiştir.
+
 <br>
 
 ### Reach out to me
